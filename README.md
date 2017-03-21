@@ -1,2 +1,3 @@
 # Snake
-Snake (Completed... if i don´t feel like refactoring the code)
+Snake (Completed... if i don´t feel like refactoring the code and adding some fancy graphics)
+The code is easy to understand since it is divided in many segments, haven't commented it tho...
